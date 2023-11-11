@@ -70,6 +70,6 @@
    
    <br>
    
-   <a href="mailto:jbdelacruz411@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+   <a href="mailto:nyep.development@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
