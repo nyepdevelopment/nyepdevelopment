@@ -46,9 +46,9 @@
      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Render-5BDEC3?style=for-the-badge&logo=render&logoColor=black" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-   
+     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;&nbsp;
 
 </p>
 
@@ -58,7 +58,7 @@
 
 <p>
   <a href="https://nyep.netlify.app/" target="_blank">
-<img width=320 height=35 src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Fnyep.netlify.com" />
+<img width=320 height=35 src="https://img.shields.io/website?down_color=green&down_message=UP&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Fnyep.netlify.com" />
 </a>
    
    <br>
