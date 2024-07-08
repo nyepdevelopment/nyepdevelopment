@@ -1,6 +1,3 @@
-<!--Made By gateremark-->
-
-
 <div align=center>
    <img height=50 width=100% src="static/divider.gif">
 </div>
@@ -8,7 +5,9 @@
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%23F4C9A5&size=20&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate" />
 </h1>
 <div align=center>
-   <img align="right" alt="Coding" width=45% height=100% src="https://nyep.netlify.app/img/seo/seo-image.png" /></a>
+    <a href="https://nyep.netlify.app/" target="_blank">
+       <img align="right" alt="Coding" width=45% height=100% src="https://nyep.netlify.app/img/seo/seo-image.png" />
+    </a>
    <h4>
       🌱 An enthusiast in:
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=Web+Applications;Softwares;Websites;Cloud+Computing;AI;Data+Analytics;Game%20Development;Cryptocurrencies" />
