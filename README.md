@@ -37,13 +37,12 @@
      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white"/> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Render-5BDEC3?style=for-the-badge&logo=render&logoColor=black" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
    <br>
 </p>
 
