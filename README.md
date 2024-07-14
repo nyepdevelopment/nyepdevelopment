@@ -1,7 +1,7 @@
 <div align=center>
    <img height=50 width=100% src="static/divider.gif">
 </div>
-<h1 align="center"> I`m Jefferson
+<h1 align="center"> Hello <img height=50 src="static/Hi.gif"> I`m Jefferson <img height=50 src="static/github.gif">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%23F4C9A5&size=20&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate" />
 </h1>
 <div align=center>
@@ -50,9 +50,12 @@
    <img height=50 width=100% src="static/divider.gif">
 </div>
 
-
-  <a href="https://nyep.netlify.app/" target="_blank">
+<a href="https://nyep.netlify.app/" target="_blank">
   <img width=120 height=35 src="https://img.shields.io/website?url=https%3A%2F%2Fnyep.netlify.app%2F&label=NYEP&color=F4C9A5" />
 </a>
+
+<div align=center>
+   <img width=100% src="static/footer.svg">
+</div>
 
 
