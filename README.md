@@ -2,7 +2,7 @@
    <img height=50 width=100% src="static/divider.gif">
 </div>
 <h1 align="center"> Hello <img height=50 src="static/Hi.gif"> I`m Jefferson <img height=50 src="static/github.gif">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%23F4C9A5&size=20&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Technology+Consultant+(EY);IT+Graduate" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%23F4C9A5&size=20&center=true&vCenter=true&width=600%&lines=Application+Developer+(IBM)" />
 </h1>
 <div align=center>
     <a href="https://nyep.netlify.app/" target="_blank">
