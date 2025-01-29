@@ -1,8 +1,8 @@
 <div align=center>
-   <img height=50 width=100% src="static/divider.gif">
+   <img height=25 width=100% src="static/divider.gif">
 </div>
 <h1 align="center"> Hello <img height=50 src="static/Hi.gif"> I`m Jefferson <img height=50 src="static/github.gif">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%23F4C9A5&size=20&center=true&vCenter=true&width=600%&lines=Application+Developer+(IBM)" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%23F4C9A5&size=24&duration=1&pause=1000&center=true&vCenter=true&width=600%&lines=Application+Developer+@IBM;" />
 </h1>
 <div align=center>
     <a href="https://nyep.netlify.app/" target="_blank">
@@ -10,15 +10,15 @@
     </a>
    <h4>
       🌱 An enthusiast in:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=Web+Applications;Softwares;Websites;Cloud+Computing;AI;Data+Analytics;Game%20Development;Cryptocurrencies" />
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=Application+Development;Cloud+Computing;Generative+AI;Blockchain" />
       <br>
-      💬 I want to here more:
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas;New+Opportunities" />
+      💬 I want to here:
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas;New+Cryptocurrencies" />
    </h4>
 </div>
 
 <div align=center>
-   <img height=50 width=100% src="static/divider.gif">
+   <img height=25 width=100% src="static/divider.gif">
 </div>
 
 <h3 align="left">Tech Stacks<span style="font-style: italic;"> (Continuous Learning)</span>:</h3>
@@ -47,7 +47,7 @@
 </p>
 
 <div align=center>
-   <img height=50 width=100% src="static/divider.gif">
+   <img height=25 width=100% src="static/divider.gif">
 </div>
 
 <a href="https://nyep.netlify.app/" target="_blank">
