@@ -13,7 +13,7 @@
       🌱 An enthusiast in:
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com/?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=Application+Development;Cloud+Computing;Generative+AI" />
       <br>
-      💬 I want to here:
+      💬 I want to hear:
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F4C9A5&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;New+Ideas;New+Ideas" />
    </h4>
 </div>
